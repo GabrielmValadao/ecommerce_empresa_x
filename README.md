@@ -1,2 +1,2 @@
 # ecommerce_empresa_x
-E-commerce para empresa x, feito em PHP e MySQL
+Esta é um e-commerce para empresa x, feito em PHP e MySQL
