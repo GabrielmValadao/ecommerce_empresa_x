@@ -29,7 +29,7 @@ _Checkout, **Tela do produto**, Catálogos, Home com banner_
 
 #### Imagem externa
 
-![Logo do JavaScript](https://thumbs.dreamstime.com/b/logotipo-do-javascript-136765881.jpg)
+![Logo do JavaScript](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
 
 ###### Melhorias do projeto:
 
