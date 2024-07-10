@@ -35,6 +35,14 @@ _Checkout, **Tela do produto**, Catálogos, Home com banner_
 
 [Documentação do PHP](https://www.php.net/)
 
+## Código da função soma
+
+```javascript
+function soma(a, b) {
+  return a + b;
+}
+```
+
 ###### Melhorias do projeto:
 
 **Melhoria 1**, _melhoria 2_
