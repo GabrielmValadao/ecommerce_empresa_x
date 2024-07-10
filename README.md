@@ -6,10 +6,6 @@ Criando **e-commerce** para _empresa x_
 
 _Checkout, **Tela do produto**, Catálogos, Home com banner_
 
-###### Melhorias do projeto:
-
-**Melhoria 1**, _melhoria 2_
-
 ### Linguagens do projeto:
 
 - HTML
@@ -17,3 +13,13 @@ _Checkout, **Tela do produto**, Catálogos, Home com banner_
 - JavaScript
 - PHP
 - MySQL
+
+### Funcionalidades a desenvolver:
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus e prêmios
+
+###### Melhorias do projeto:
+
+**Melhoria 1**, _melhoria 2_
