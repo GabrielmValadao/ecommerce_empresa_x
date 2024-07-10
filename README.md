@@ -27,6 +27,10 @@ _Checkout, **Tela do produto**, Catálogos, Home com banner_
 
 ![Logo do PHP](img/php.png)
 
+#### Imagem externa
+
+![Logo do JavaScript](https://thumbs.dreamstime.com/b/logotipo-do-javascript-136765881.jpg)
+
 ###### Melhorias do projeto:
 
 **Melhoria 1**, _melhoria 2_
