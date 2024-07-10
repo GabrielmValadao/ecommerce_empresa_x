@@ -25,7 +25,7 @@ _Checkout, **Tela do produto**, Catálogos, Home com banner_
 
 #### Imagem local
 
-![Logo do PHP](img/php.png)
+[![Logo do PHP](img/php.png)](https://www.php.net/)
 
 #### Imagem externa
 
