@@ -23,6 +23,8 @@ _Checkout, **Tela do produto**, Catálogos, Home com banner_
 2. Integração com outros pagamentos
 3. Sistema de bônus de primeira compra
 
+#### Imagem local
+
 ###### Melhorias do projeto:
 
 **Melhoria 1**, _melhoria 2_
